@@ -1,4 +1,4 @@
-## 🌧️ Delhi Water-Logging Hotspots Mapping System
+# 🌧️ Delhi Water-Logging Hotspots Mapping System
 A full-stack Real-time Water-Logging Monitoring & Prediction System designed to identify, map, and predict water-logging hotspots across Delhi during monsoon season, enabling proactive urban planning and early response.
 
 ---
@@ -22,7 +22,6 @@ The project integrates interactive frontend (HTML/CSS/JS) with OpenWeatherMap AP
 ---
 
 ## 🚀 Features
-# 🌧️ Delhi Water-Logging Hotspots Mapping System
 
 | Feature | Description | Status |
 |---------|-------------|--------|
@@ -80,10 +79,10 @@ delhi-waterlogging/
 
 ## 📥 Clone the Repository
 
-# Clone the repository
+## Clone the repository
 git clone https://github.com/r20j/delhi-waterlogging.git
 
-# Navigate to project folder
+## Navigate to project folder
 cd delhi-waterlogging
 
 ---
@@ -92,29 +91,29 @@ cd delhi-waterlogging
 
 ### Backend Setup
 
-# Navigate to backend folder
+### Navigate to backend folder
 cd backend
 
-# Install dependencies
+### Install dependencies
 pip install flask flask-cors
 
-# Run Flask server
+### Run Flask server
 python app.py
 
-# Backend runs at:
+### Backend runs at:
 http://localhost:8000
 
 ### Frontend
 bash
-# Open directly in browser
-# Just double-click on:
+### Open directly in browser
+### Just double-click on:
 frontend/index.html
 
-# OR using live server (recommended)
+### OR using live server (recommended)
 npx live-server frontend
-# or
+### or
 python -m http.server 8080
-# Then open: http://localhost:8080/frontend/
+### Then open: http://localhost:8080/frontend/
 
 ---
 
@@ -127,10 +126,6 @@ python -m http.server 8080
 * 🔐 Role-based authentication
 
 ---
-
-## 📌 Use Case
-
-## 🚀 Future Enhancements
 
 ## 🚀 Future Enhancements
 
