@@ -79,10 +79,10 @@ delhi-waterlogging/
 
 ## 📥 Clone the Repository
 
-## Clone the repository
+### Clone the repository
 git clone https://github.com/r20j/delhi-waterlogging.git
 
-## Navigate to project folder
+### Navigate to project folder
 cd delhi-waterlogging
 
 ---
